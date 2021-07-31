@@ -3,7 +3,7 @@
   "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/sadew451/Anki-Vector-Music",
+  "repository": "https://github.com/deshadeeth-thisarana/Anki-Vector-Music",
   "stack": "container",
   "buildpacks": [
    {
